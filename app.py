@@ -85,6 +85,3 @@ st.subheader("Projects & Accomplishments")
 st.write("---")
 for project, link in PROJETCTS.items():
     st.write(f"[{project}]({link})")
-
-[theme]
-base = "dark"
