@@ -21,12 +21,12 @@ SOCIAL_MEDIA ={
 }
 
 PROJETCTS = {
-    ":trophy: My final C project in introduction to programming course" : "https://github.com/JonathanAaronDev/Project-in-C-for-studies",
-    ":trophy: Educational math software for Sixth grade(C-sharp)" : "https://github.com/JonathanAaronDev/Final-Project-C-sharp",
-    ":trophy: Lottery game (using HTML,CSS and JS)" : "https://github.com/JonathanAaronDev/Web-Development",
-    ":trophy: Conway's Game of Life (Python)" : "https://github.com/JonathanAaronDev/Game_Of_Life-python-",
-    ":trophy: Sales Dashboard - Comparing sales across countries" : "https://github.com/JonathanAaronDev/Dashboard_data",
-    ":trophy: NBA Dashboard(21/22) - Comparing stats between diffrent NBA teams " : "https://github.com/JonathanAaronDev/NBA_Dashboard_21-22",
+    "🏆 My final C project in introduction to programming course" : "https://github.com/JonathanAaronDev/Project-in-C-for-studies",
+    "🏆 Educational math software for Sixth grade(C-sharp)" : "https://github.com/JonathanAaronDev/Final-Project-C-sharp",
+    "🏆 Lottery game (using HTML,CSS and JS)" : "https://github.com/JonathanAaronDev/Web-Development",
+    "🏆 Conway's Game of Life (Python)" : "https://github.com/JonathanAaronDev/Game_Of_Life-python-",
+    "🏆 Sales Dashboard - Comparing sales across countries" : "https://github.com/JonathanAaronDev/Dashboard_data",
+    "🏆 NBA Dashboard(21/22) - Comparing stats between diffrent NBA teams " : "https://github.com/JonathanAaronDev/NBA_Dashboard_21-22",
 }
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
@@ -50,7 +50,7 @@ with col2:
         file_name=resume_file.name,
         mime="application/octet-stream",
     )
-    st.write(":e-mail:", EMAIL)
+    st.write("📫", EMAIL)
 # --- SOCIAL LINKS ---
 st.write("#")
 cols = st.columns(len(SOCIAL_MEDIA))
