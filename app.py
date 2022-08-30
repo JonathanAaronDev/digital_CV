@@ -26,7 +26,7 @@ PROJETCTS = {
     "🏆 Lottery game (using HTML,CSS and JS)" : "https://github.com/JonathanAaronDev/Web-Development",
     "🏆 Conway's Game of Life (Python)" : "https://github.com/JonathanAaronDev/Game_Of_Life-python-",
     "🏆 Sales Dashboard - Comparing sales across countries" : "https://jonathanaarondev-dashboard-data-main-h22j2z.streamlitapp.com/",
-    "🏆 NBA Dashboard(21/22) - Comparing stats between diffrent NBA teams " : "https://jonathanaarondev-nba-dashboard-21-22-main-7ap4wp.streamlitapp.com/",
+    "🏆 NBA Dashboard(21/22) - Comparing stats between diffrent NBA teams " : "https://jonathanaarondev-nba-dashboard-21-22-main-kek8h0.streamlitapp.com/",
 }
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
