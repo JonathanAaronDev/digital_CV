@@ -26,6 +26,7 @@ hr {
 footer {visibility: hidden;}
 header {visibility: hidden;}
 
-.reportview-container {
-        background: url("https://scx2.b-cdn.net/gfx/news/hires/2019/galaxy.jpg")
-   }
+body {
+    color: #fff;
+    background-color: #4F8BF9;
+}

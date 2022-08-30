@@ -1,7 +1,6 @@
 from pathlib import Path
 import streamlit as st
 from PIL import Image
-
 # --- Path Settings ---
 current_dir = Path(_file_).parent if "_file_" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
@@ -87,13 +86,5 @@ st.write("---")
 for project, link in PROJETCTS.items():
     st.write(f"[{project}]({link})")
 
-st.markdown(
-    """
-    <style>
-    .reportview-container {
-        background: url("https://scx2.b-cdn.net/gfx/news/hires/2019/galaxy.jpg")
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
+[theme]
+base = "dark"
