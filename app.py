@@ -25,8 +25,8 @@ PROJETCTS = {
     "🏆 Educational math software for Sixth grade(C-sharp)" : "https://github.com/JonathanAaronDev/Final-Project-C-sharp",
     "🏆 Lottery game (using HTML,CSS and JS)" : "https://github.com/JonathanAaronDev/Web-Development",
     "🏆 Conway's Game of Life (Python)" : "https://github.com/JonathanAaronDev/Game_Of_Life-python-",
-    "🏆 Sales Dashboard - Comparing sales across countries" : "https://github.com/JonathanAaronDev/Dashboard_data",
-    "🏆 NBA Dashboard(21/22) - Comparing stats between diffrent NBA teams " : "https://github.com/JonathanAaronDev/NBA_Dashboard_21-22",
+    "🏆 Sales Dashboard - Comparing sales across countries" : "https://jonathanaarondev-dashboard-data-main-h22j2z.streamlitapp.com/",
+    "🏆 NBA Dashboard(21/22) - Comparing stats between diffrent NBA teams " : "https://jonathanaarondev-nba-dashboard-21-22-main-7ap4wp.streamlitapp.com/",
 }
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
