@@ -1,5 +1,4 @@
 from pathlib import Path
-
 import streamlit as st
 from PIL import Image
 
@@ -76,7 +75,7 @@ st.write(
     """
 - 👩‍💻 Programming: Python, C#, C, JAVA, HTML, CSS, JS, SQL
 - 📊 Data Visualization: Plotly, Matplotlib, Seaborn
-- 📚 Modeling: Logistic regression, linear regression, decision trees and much more
+- 📚 Modeling: Logistic regression, linear regression, decision trees, naive bayes  and much more
 - 🗄️ Databases: MySQL
 """
 )
@@ -87,3 +86,14 @@ st.subheader("Projects & Accomplishments")
 st.write("---")
 for project, link in PROJETCTS.items():
     st.write(f"[{project}]({link})")
+
+st.markdown(
+    """
+    <style>
+    .reportview-container {
+        background: url("https://scx2.b-cdn.net/gfx/news/hires/2019/galaxy.jpg")
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
