@@ -27,7 +27,7 @@ PROJETCTS = {
     "🏆 Sales Dashboard - Comparing sales across countries" : "https://jonathanaarondev-dashboard-data-main-h22j2z.streamlitapp.com/",
     "🏆 Conway's Game of Life (Python/pygame)" : "https://github.com/JonathanAaronDev/Game_Of_Life-python-",
     "🏆 Car Rental Agency(GUI Project in Java) " : "https://github.com/JonathanAaronDev/-Car-Rental-Agency",
-    "🏆 Educational math software for Sixth grade(C-sharp)" : "https://github.com/JonathanAaronDev/Final-Project-C-sharp",
+    "🏆 Educational math software for Sixth grade(C-sharp)" : "https://github.com/JonathanAaronDev/-Final-Project-C-sharp",
     "🏆 C project in introduction to programming course" : "https://github.com/JonathanAaronDev/Project-in-C-for-studies",
 }
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
