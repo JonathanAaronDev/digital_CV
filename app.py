@@ -21,12 +21,14 @@ SOCIAL_MEDIA ={
 }
 
 PROJETCTS = {
-    "🏆 My final C project in introduction to programming course" : "https://github.com/JonathanAaronDev/Project-in-C-for-studies",
-    "🏆 Educational math software for Sixth grade(C-sharp)" : "https://github.com/JonathanAaronDev/Final-Project-C-sharp",
-    "🏆 Lottery game (using HTML,CSS and JS)" : "https://github.com/JonathanAaronDev/Web-Development",
-    "🏆 Conway's Game of Life (Python)" : "https://github.com/JonathanAaronDev/Game_Of_Life-python-",
-    "🏆 Sales Dashboard - Comparing sales across countries" : "https://jonathanaarondev-dashboard-data-main-h22j2z.streamlitapp.com/",
+    
+    "🏆 Agriculture Yields Predictor App - Data science project using Python" : "https://jonathanaarondev-agriculture-predictor-main-d7d3i8.streamlit.app/",
     "🏆 NBA Dashboard(21/22) - Comparing stats between diffrent NBA teams " : "https://jonathanaarondev-nba-dashboard-21-22-main-kek8h0.streamlitapp.com/",
+    "🏆 Sales Dashboard - Comparing sales across countries" : "https://jonathanaarondev-dashboard-data-main-h22j2z.streamlitapp.com/",
+    "🏆 Conway's Game of Life (Python/pygame)" : "https://github.com/JonathanAaronDev/Game_Of_Life-python-",
+    "🏆 Car Rental Agency(GUI Project in Java) " : "https://github.com/JonathanAaronDev/-Car-Rental-Agency",
+    "🏆 Educational math software for Sixth grade(C-sharp)" : "https://github.com/JonathanAaronDev/Final-Project-C-sharp",
+    "🏆 C project in introduction to programming course" : "https://github.com/JonathanAaronDev/Project-in-C-for-studies",
 }
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
@@ -74,8 +76,8 @@ st.write(
     """
 - 👩‍💻 Programming: Python, C#, C, JAVA, HTML, CSS, JS, SQL
 - 📊 Data Visualization: Plotly, Matplotlib, Seaborn
-- 📚 Modeling: Logistic regression, linear regression, decision trees, naive bayes  and much more
-- 🗄️ Databases: MySQL
+- 📚 Modeling: NN,CNN,RNN,SVM,Logistic regression, Linear regression, decision trees, and naive bayes 
+- 🗄️ Databases: MySQL,MongoDB,RavenDB
 """
 )
 
